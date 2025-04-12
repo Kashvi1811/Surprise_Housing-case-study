@@ -35,69 +35,57 @@ Surprise-Housing-Market-Analysis/
 ├── requirements.txt             # Python dependencies list
 ├── README.md                    # Project overview and documentation
 └── LICENSE                      # Licensing details (if applicable)
-Getting Started
-Clone the repository:
+```
 
-bash
-Copy
-Edit
+## Getting Started
+**Clone the repository:**
+```bash
 git clone https://github.com/Kashvi1811/Surprise-Housing-Market-Analysis.git
 cd Surprise-Housing-Market-Analysis
-Optional: Create a virtual environment for better dependency management:
+```
 
-bash
-Copy
-Edit
+**Optional:** Create a virtual environment for better dependency management:
+```bash
 python -m venv env
 source env/bin/activate   # On Windows: env\Scripts\activate
-Install dependencies:
+```
 
-bash
-Copy
-Edit
+**Install dependencies:**
+```bash
 pip install -r requirements.txt
-How to Use
-Open the Notebook:
-Launch Jupyter Notebook:
+```
 
-bash
-Copy
-Edit
-jupyter notebook
-Then, open the notebooks/Surprise_Housing_Case_Study.ipynb file to review and run the analysis.
+## How to Use
+1. **Open the Notebook:**  
+   Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+   Then, open the `notebooks/Surprise_Housing_Case_Study.ipynb` file to review and run the analysis.
+2. **Explore & Experiment:**  
+   Run the notebook cells to load data, examine visualizations, and see how various models perform.
+3. **Customize Your Analysis:**  
+   Feel free to tweak parameters, add new visualizations, or incorporate additional datasets to extend the insights.
 
-Explore & Experiment:
-Run the notebook cells to load data, examine visualizations, and see how various models perform.
+## Tech Stack
+- **Programming Language:** Python  
+- **Environment:** Jupyter Notebook  
+- **Data Wrangling:** Pandas, NumPy  
+- **Visualization:** Matplotlib, Seaborn  
+- **Statistical Modeling:** scikit-learn  
+- **Additional Tools:** Other Python libraries for data cleaning and feature engineering
 
-Customize Your Analysis:
-Feel free to tweak parameters, add new visualizations, or incorporate additional datasets to extend the insights.
+## License
+This project is intended for educational and personal use. All rights reserved by **Kashvi1811**.  
+*For any usage beyond personal or educational purposes, please contact me in advance.*
 
-Tech Stack
-Programming Language: Python
-
-Environment: Jupyter Notebook
-
-Data Wrangling: Pandas, NumPy
-
-Visualization: Matplotlib, Seaborn
-
-Statistical Modeling: scikit-learn
-
-Additional Tools: Other Python libraries for data cleaning and feature engineering
-
-License
-This project is intended for educational and personal use. All rights reserved by Kashvi1811.
-For any usage beyond personal or educational purposes, please contact me in advance.
-
-Contact & Collaboration
+## Contact & Collaboration
 I’m always open to feedback, ideas, and collaboration opportunities! Feel free to reach out:
+- **GitHub:** [@Kashvi1811](https://github.com/Kashvi1811)
+- **LinkedIn:** [Kashvi on LinkedIn](https://www.linkedin.com/in/kashvisoni1811)
+- **Email:** kashvisoni1811@gmail.com
 
-GitHub: @Kashvi1811
 
-LinkedIn: Kashvi on LinkedIn
 
-Email: kashvisoni1811@gmail.com
-
-Thank you for exploring the Surprise Housing Market Analysis project. Happy exploring and analyzing!
 
 
