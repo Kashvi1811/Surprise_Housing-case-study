@@ -29,12 +29,10 @@ This repository hosts a comprehensive analysis of housing market data aimed at r
 ```bash
 Surprise-Housing-Market-Analysis/
 ├── data/                        # Raw and processed datasets
-├── notebooks/                   # Jupyter Notebooks for analysis
-│   └── Surprise_Housing_Case_Study.ipynb  # Main notebook with detailed analysis
-├── reports/                     # Exported visualizations and reports
+├── Surprise_Housing_Case_Study.ipynb  # Main notebook with detailed analysis              
 ├── requirements.txt             # Python dependencies list
 ├── README.md                    # Project overview and documentation
-└── LICENSE                      # Licensing details (if applicable)
+
 ```
 
 ## Getting Started
