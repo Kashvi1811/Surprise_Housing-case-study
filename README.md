@@ -83,7 +83,7 @@ This project is intended for educational and personal use. All rights reserved b
 I’m always open to feedback, ideas, and collaboration opportunities! Feel free to reach out:
 - **GitHub:** [@Kashvi1811](https://github.com/Kashvi1811)
 - **LinkedIn:** [Kashvi on LinkedIn](https://www.linkedin.com/in/kashvisoni1811)
-- **Email:** kashvisoni1811@gmail.com
+- **Email:** kashvisoni2005@gmail.com
 
 
 
